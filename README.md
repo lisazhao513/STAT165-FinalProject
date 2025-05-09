@@ -1,6 +1,6 @@
 # STAT165-FinalProject
 
-Authors: Lisa Tian Zhao, Zilin Zhang, Diane Chen, David Lim
+Authors: Lisa Tian Zhao, Zilin Zhang, Diane Tang, David Lim
 
 This repository contains all code, data, and documentation for our STAT 165 final project, which forecasts Tesla's Q4 2025 vehicle production using multiple quantitative methodologies.
 
